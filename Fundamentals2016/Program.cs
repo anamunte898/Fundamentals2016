@@ -5,8 +5,7 @@ namespace Fundamentals2016
 {
     // the using keyword is used to include namespace in the program. A program generally has multiple using statements.
     // See the test: TestNamespaceInsideUsingUsing
-
-    using Part2;
+    
     using Part3;
     using Part4;
     using Part5;

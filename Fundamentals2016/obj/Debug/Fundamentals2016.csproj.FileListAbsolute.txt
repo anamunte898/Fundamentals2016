@@ -7,3 +7,6 @@ c:\users\ionut.enache\documents\visual studio 2015\Projects\Fundamentals2016\Fun
 E:\ZTH\Fundamentals2016\Fundamentals2016\Fundamentals2016\bin\Debug\Fundamentals2016.exe.config
 E:\ZTH\Fundamentals2016\Fundamentals2016\Fundamentals2016\obj\Debug\Fundamentals2016.exe
 E:\ZTH\Fundamentals2016\Fundamentals2016\Fundamentals2016\obj\Debug\Fundamentals2016.pdb
+E:\ZTH\Fundamentals2016\Fundamentals2016\Fundamentals2016\bin\Debug\Fundamentals2016.exe
+E:\ZTH\Fundamentals2016\Fundamentals2016\Fundamentals2016\bin\Debug\Fundamentals2016.pdb
+E:\ZTH\Fundamentals2016\Fundamentals2016\Fundamentals2016\obj\Debug\Fundamentals2016.csprojResolveAssemblyReference.cache

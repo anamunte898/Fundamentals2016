@@ -1,9 +1,9 @@
-﻿using System;
-using System.IO;
-using System.Text;
-
-namespace Fundamentals2016.Part5
+﻿namespace Fundamentals2016.Part5
 {
+    using System;
+    using System.IO;
+    using System.Text;
+
     public class WorkWithFileExample
     {
         public string FileName { get; set; }
