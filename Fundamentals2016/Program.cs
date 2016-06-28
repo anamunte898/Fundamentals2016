@@ -108,7 +108,7 @@ namespace Fundamentals2016
             #endregion
 
 
-            #region part4 - enums, if (?), ??, switch, inheritance, interface, IComparable, generic methods, overloading, polymorphism
+            #region part4 - enums, if (?), ??, switch, inheritance, interface, IComparable, generic  methods, overloading, polymorphism
 
             var triangle = new Triangle(3, 4, 5);
             var rectangle = new Fundamentals2016.Part4.Rectangle(2, 6);
