@@ -26,7 +26,7 @@ namespace Fundamentals2016
             // my first program in C# 
 
             // WriteLine is a method of the Console class defined in the System namespace. This statement causes the message "Hello, World!" to be displayed on the screen.
-            Console.WriteLine("Hello World");
+            Console.WriteLine("Hello World ");
 
             // This makes the program wait for a key press and it prevents the screen from running and closing quickly when the program is launched from Visual Studio.
             Console.ReadKey();
